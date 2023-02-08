@@ -1,4 +1,4 @@
-# verilog_basics_samples
+# ADDERS
 
 This repository primarily aims to convey the scripting basics of verilog with samples that i wrote during my learning curve. I used a system with Ubuntu 20.04 for this project.
 

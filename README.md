@@ -9,7 +9,7 @@ At the end the reader will get enough idea about various types of adders that in
     3. Linear carry select adder
     4. square root carry adder
 
-As a future vision i would like to convert these adders to corresponding Netlists and layouts. Here i focused on various digital concepts and the conversion of the same concepts into verilog concepts. 
+As a future vision i would like to convert these adders to corresponding Netlists and layouts. Here i focused on various digital concepts and the conversion of the same concepts into verilog codes. 
 
 ## Tools used include and Installation steps
 
